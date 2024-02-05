@@ -3300,8 +3300,8 @@ ul.pgs-action-link-list {
 
 /*rks*/
 .dropdown-toggle::after {
-    display: none;
-  }
+  display: none;
+}
 
 .pgs-form {
   padding: 2rem 0 2.5rem
